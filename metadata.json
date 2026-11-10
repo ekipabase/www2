@@ -1,0 +1,6 @@
+{
+  "name": "GOODcheese — Rzemieślnicze Sery z Europy",
+  "description": "Butikowy sklep internetowy i przewodnik po szlachetnych serach z europejskich dojrzewalni. 19 klasyków ChNP i AOP z 8 krajów Europy z dostawą chłodniczą.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
